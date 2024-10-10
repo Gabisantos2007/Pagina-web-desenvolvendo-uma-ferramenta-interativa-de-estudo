@@ -1,23 +1,23 @@
 criaCartao(
     'Felicidades',
-    '?',
-    ' Fazer o que gosta!!!'
+    'oque tem na geladeira para ser feliz?',
+    ' Toddynho!!!'
 )
 
 criaCartao(
     'Informática',
     'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    '@gabisantos2007'
 )
 
 criaCartao(
     'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
+    ' as alunos que são dedicados e super amigos?',
     'Estou em dúvida'
 )
 
 criaCartao(
     'Ganhando o Mundo',
     'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos 👏👏👏'
+    'gabriele amaral                   gg
 )
