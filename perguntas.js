@@ -1,11 +1,11 @@
 criaCartao(
-    'Felicidades',
-    'O que precisa para ser feliz?',
-    ' Fazer o que gosta!!!'
+    'Ama fazer',
+    'Que vocẽ gota de comer?',
+    'lazanha'
 )
 
 criaCartao(
-    'Informática',
+    '',
     'Qual o melhor canal para aprender informática',
     '@rasinformática'
 )
