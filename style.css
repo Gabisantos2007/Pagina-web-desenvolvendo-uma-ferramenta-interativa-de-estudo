@@ -4,11 +4,6 @@
     --card-back-color: white;
 }
 
-body {
-    background: url('sistema.jpg');
-    font-family: monospace;
-}
-
 #container {
     display: flex; 
     flex-wrap: wrap;
