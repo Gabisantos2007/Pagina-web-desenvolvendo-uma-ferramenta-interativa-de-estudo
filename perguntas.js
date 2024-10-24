@@ -1,17 +1,17 @@
 criaCartao(
     'Ama fazer',
-    'Que vocẽ gota de comer?',
+    'Que vocẽ gosta de comer?',
     'lazanha'
 )
 
 criaCartao(
-    '',
-    'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    'Te deixa triste',
+    'Fica longe da kamila',
+    '@Gabi santos'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
+    '..........',
     'A que mais se dedica as aulas do Prof. Rafael?',
     'Estou em dúvida'
 )
