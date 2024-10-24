@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    '..........',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'Professor de informatica e legal',
+    ' Sim o rafael é muito prestativo, inteligente muito dedicado nos alunos',
+    'yes'
 )
 
 criaCartao(
-    'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos 👏👏👏'
+    'Trabalha em que',
+    'Quem vende produtos oboticario ',
+    ' Gabizinha'
 )
