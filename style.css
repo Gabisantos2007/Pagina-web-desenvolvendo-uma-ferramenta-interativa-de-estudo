@@ -15,7 +15,7 @@ body {
     justify-content: space-between;
     padding: 4rem;
     gap: 3rem;
-    box-shadow: 1px 1px 20px purple;
+    box-shadow: 1px 1px 20px green;
 }
 
 .cartao {
@@ -23,7 +23,7 @@ body {
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
-    box-shadow: 1px 1px 20px purple;
+    box-shadow: 1px 1px 20px green;
 }
 
 .cartao__conteudo {
@@ -37,7 +37,7 @@ body {
 
 .cartao__conteudo h3 {
     color: var(--text-color);
-    border: 4px solid purple;
+    border: 4px solid green;
     text-align: left;
     padding: 0.5rem;
     position: absolute;
@@ -86,7 +86,7 @@ body {
 
 footer {
     background-color: black;
-    color: blueviolet;;
+    color: blueviolet;
     font-size: larger;
     position: fixed;
     bottom: 0;
