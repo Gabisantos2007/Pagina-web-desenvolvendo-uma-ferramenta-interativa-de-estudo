@@ -1,23 +1,26 @@
+
+
+
 criaCartao(
-    'Comida',
-    'O que vocẽ gosta de comer?',
-    'lazanha'
+    'Felicidades',
+    'O que precisa para ser feliz?',
+    ' Fazer o que gosta!!!'
 )
 
 criaCartao(
-    'Sentimentos'
-    'Você sabe que me deixa triste?',
-    'Ficar longe da kamila'
+    'Informática',
+    'Qual o melhor canal para aprender informática',
+    '@rasinformática'
 )
 
 criaCartao(
-    'Melhor professor de Informática',
-    'Quem é o melhor professor de informática?',
-    'Professor Rafael Assis'
+    'Qual é a melhor turma do CERB',
+    'A que mais se dedica as aulas do Prof. Rafael?',
+    'Estou em dúvida'
 )
 
 criaCartao(
-    'Carro',
-    'Qual é o carro mais lindo do mundo',
-    'Jetta'
+    'Ganhando o Mundo',
+    'Quem participou do Programa Ganhado o mundo em 2024?',
+    'Eloisa Amorim dos Santos 👏👏👏'
 )
