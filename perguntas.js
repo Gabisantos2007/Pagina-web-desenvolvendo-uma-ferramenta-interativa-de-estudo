@@ -21,6 +21,6 @@ criaCartao(
 
 criaCartao(
     'Ganhando o Mundo',
-    'Qual é o professor mais chato da escola',
+    'Qual é o professor mais chato da escola?',
     'Rafael 😉'
 )
