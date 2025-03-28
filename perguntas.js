@@ -3,24 +3,23 @@
 
 criaCartao(
     'Felicidades',
-    'O que precisa para ser feliz?',
-    ' Estudar bastante nas aulas de programção!!!'
+    'O que vocẽ gosta de comer?',
+    ' churasco e lazanha!!!'
 )
 
 criaCartao(
     'Informática',
-    'Qual o melhor canal para aprender sobre tecnologia',
-    '@rasinformática'
+    'Qual o melhor canal de cozinha',
+    'master chef'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    '2º ano B'
+    'Qual é o nome do se melhor professor?',
+    'Prof. Rafael 
 )
 
 criaCartao(
     'Escola',
     'Qual é o professor mais chato da escola?',
-    'Rafael 😉'
+    'rosilda'
 )
