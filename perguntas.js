@@ -14,6 +14,7 @@ criaCartao(
 )
 
 criaCartao(
+    'Escola',
     'Qual é o nome do se melhor professor da escola?',
     'Prof. Rafael 
 )
