@@ -14,12 +14,12 @@ criaCartao(
 )
 
 criaCartao(
-    'Qual é o nome do se melhor professor?',
+    'Qual é o nome do se melhor professor da escola?',
     'Prof. Rafael 
 )
 
 criaCartao(
     'Escola',
     'Qual é o professor mais chato da escola?',
-    'rosilda'
+    'prof. Rosilda'
 )
